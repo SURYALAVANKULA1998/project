@@ -1,0 +1,51 @@
+/*  */
+@import url();
+.h-center{
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: bold;
+    font-weight: normal;
+    text-decoration: none;
+    /* text-decoration: overline;
+    text-decoration: line-through; */
+    
+}
+.main-heading{
+    color: blue;
+    text-decoration: underline;
+    font-size: 36px;
+}
+.paragraph{
+    color: grey;
+    text-align: justify;
+    font-weight: bold;
+    
+
+}
+.card{
+    background-image: url("https://img.freepik.com/premium-photo/gastronomy-great-outdoors-capturing-flavors-nature_865967-676278.jpg?ga=GA1.1.465913683.1721119534&semt=ais_hybrid_sidr");
+    background-size: cover ;
+    text-align: center;
+    height: 50vh;
+    /* width: 80vw; */
+}
+.card-card{
+    background-image: url("https://img.freepik.com/free-photo/top-view-delicious-meals-arrangement_23-2149178167.jpg?ga=GA1.1.465913683.1721119534&semt=ais_hybrid_sidr");
+    background-size: cover;
+    text-align: center;
+    height: 50vh;
+}
+/* link html file button */
+.button{
+    height: 36px;
+    width: 138px;
+    border-width: 0px;
+    border-radius: 10px;
+    
+}
+.button-green{
+    background-color: #8cc63f;
+    
+}
+
